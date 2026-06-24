@@ -47,7 +47,7 @@ My main role was frontend development:
 
 ![Map](./assets/map.png)
 
-![Reviews](./assets/reviews-map.png)
+![Reviews](./assets/reviews.png)
 
 
 ## Live Demo
