@@ -1,7 +1,7 @@
-# Smart Rental Booking Platform
+# Smart Rental Booking Platform 🏠
 
-A full-stack rental platform developed as a final year team project.
-Users can explore properties, view locations, create accounts,
+A smart rental platform developed as a final year team project.
+Users can explore properties, view locations using maps, create accounts,
 add property listings, and share reviews & comments.
 
 ## Features
@@ -16,30 +16,31 @@ add property listings, and share reviews & comments.
 
 ## Tech Stack
 
-Frontend:
+### Frontend
 - React.js
 - JavaScript
-- CSS
-- HTML
+- HTML5
+- CSS3
 
-Backend:
+### Backend
 - Node.js
 - Express.js
 
-Database:
+### Database
 - MongoDB
 
 ## My Contribution
 
-Worked mainly on frontend development:
+My main role was frontend development:
 - Built responsive UI components
 - Created reusable React components
-- Improved user interface and user experience
+- Designed user-friendly interfaces
+- Worked on frontend integration with backend services
 
 ## Live Demo
 
 https://smart-rental-booking.onrender.com
 
-## GitHub
+## GitHub Repository
 
 https://github.com/Narendra-kushwaha/smart-rental-booking
