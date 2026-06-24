@@ -37,6 +37,16 @@ My main role was frontend development:
 - Designed user-friendly interfaces
 - Worked on frontend integration with backend services
 
+## Screenshots
+
+![Home Page](./assets/home.png)
+
+![Property Details](./assets/details.png)
+
+![Add Listing](./assets/add-property.png)
+
+![Reviews & Map](./assets/reviews-map.png)
+
 ## Live Demo
 
 https://smart-rental-booking.onrender.com
