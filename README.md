@@ -45,7 +45,10 @@ My main role was frontend development:
 
 ![Add Listing](./assets/add-property.png)
 
-![Reviews & Map](./assets/reviews-map.png)
+![Map](./assets/map.png)
+
+![Reviews](./assets/reviews-map.png)
+
 
 ## Live Demo
 
