@@ -57,3 +57,7 @@ https://smart-rental-booking.onrender.com
 ## GitHub Repository
 
 https://github.com/Narendra-kushwaha/smart-rental-booking
+
+## 👨‍💻 Author
+
+Narendra Kushwaha
